@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Global Roboto with Open Sans Headers user style
 date: '2014-04-11 11:50:42'
 tags:

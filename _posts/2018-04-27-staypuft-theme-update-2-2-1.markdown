@@ -1,5 +1,4 @@
 ---
-layout: post
 title: StayPuft theme update 2.2.1
 date: '2018-04-27 23:54:11'
 tags:

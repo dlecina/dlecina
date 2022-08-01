@@ -1,5 +1,4 @@
 ---
-layout: post
 title: StayPuft theme update 2.9.1
 featured: true
 date: '2019-02-02 17:11:13'

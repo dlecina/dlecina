@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The Old Reader user style
 date: '2014-04-11 02:23:40'
 tags:

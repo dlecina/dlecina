@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Global Roboto user style
 date: '2014-04-11 11:41:46'
 tags:

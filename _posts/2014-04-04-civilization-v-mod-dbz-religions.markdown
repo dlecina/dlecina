@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Civilization V Mod: DBZ Religions Mod'
 date: '2014-04-04 23:38:31'
 tags:

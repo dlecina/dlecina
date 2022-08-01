@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Super Mario Maker 2 - Thwomp but Thweet
 date: '2019-07-12 21:40:57'
 tags:

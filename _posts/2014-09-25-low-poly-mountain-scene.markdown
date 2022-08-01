@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Low Poly Mountain Scene
 date: '2014-09-25 15:16:18'
 tags:

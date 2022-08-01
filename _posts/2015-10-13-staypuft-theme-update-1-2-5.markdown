@@ -1,5 +1,4 @@
 ---
-layout: post
 title: StayPuft theme update 1.2.5
 date: '2015-10-13 22:06:22'
 tags:

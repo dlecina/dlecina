@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Agile Pipeline - My first Super Mario Maker Level
 date: '2015-10-15 22:49:12'
 tags:
