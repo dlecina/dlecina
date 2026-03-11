@@ -6,7 +6,7 @@ tags:
 - civ5-mods
 ---
 
-![Thumbnail]({{ site.baseurl }}/assets/images/civ5-dbz.jpg)
+[![Thumbnail]({{ site.baseurl }}/assets/images/civ5-dbz.jpg)](http://steamcommunity.com/sharedfiles/filedetails/?id=245371062)
 
 This mod adds religions based on Dragon Ball Z, including: 
 
