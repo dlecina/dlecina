@@ -6,6 +6,8 @@ tags:
 - civ5-mods
 ---
 
+![Thumbnail]({{ site.baseurl }}/assets/images/civ5-dbz.jpg)
+
 This mod adds religions based on Dragon Ball Z, including: 
 
 * Beerus Belief 

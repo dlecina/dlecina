@@ -6,7 +6,7 @@ tags:
 - super-mario-maker
 ---
 
-![Miiverse Screenshot](/blog/content/images/2015/10/WVW69ie9BsA9QYZJPQ.jpg)
+![Miiverse Screenshot]({{ site.baseurl }}/assets/images/mm-01.jpg)
 
 Course ID: 83C3-0000-00AA-43EA
 
