@@ -69,18 +69,12 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://dlecina.github.io/dlecina/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/alllucky7s"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dlecina"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/alllucky7s"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dlecina"
