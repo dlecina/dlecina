@@ -38,17 +38,19 @@ title: "Portfolio"
 
 <div markdown="1" class="grid">
 
-<img src="{{ site.baseurl }}/assets/images/survivors-wip.png" alt="Untitled Survivorslike"/>
+<iframe src="https://www.youtube.com/embed/X6t0YMQJLeo?si=QTxum2zsnv6X91Pi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <div markdown="1" class="desc">
 
-### Untitled Survivorslike
+### Super Miner Bro.
 
-<i class="fa-regular fa-calendar"></i> WIP (2026)
+<i class="fa-regular fa-calendar"></i> 2026
 <i class="fa-regular fa-user"></i> 1
-<i class="fa-solid fa-laptop-code"></i> Godot
+<i class="fa-brands fa-unity"></i> Unity
 
-<p>A prototype survivors-like game to teach myself Godot.</p>
+<p>A learning project where I built a clone of a certain popular platformer. The game includes as many features as I could replicate within the available time (around 2 weeks part time).</p>
+
+<i class="fa-brands fa-unity"></i> [Unity Play](https://play.unity.com/en/games/615e0250-2d2f-418f-be76-450f191183ce/super-miner-bro)
 
 </div>
 
@@ -62,9 +64,23 @@ title: "Portfolio"
 <i class="fa-regular fa-user"></i> 1
 <i class="fa-brands fa-unity"></i> Unity
 
-<p>A school project where I built a replica of the Insult Sword Fighting mini-game from Monkey Island. The game includes sprite animations, game logic using finite state machines, Animal Crossing-style dialogues, and a playable web version.</p>
+<p>A learning project where I built a replica of the Insult Sword Fighting mini-game from Monkey Island. The game includes sprite animations, game logic using finite state machines, Animal Crossing-style dialogues, and a playable web version.</p>
 
 <i class="fa-brands fa-unity"></i> [Unity Play](https://play.unity.com/api/v1/games/game/ef2a2191-a3fb-41a3-97df-fe5675078e4a/build/latest/frame)
+
+</div>
+
+<img src="{{ site.baseurl }}/assets/images/survivors-wip.png" alt="Untitled Survivorslike"/>
+
+<div markdown="1" class="desc">
+
+### Untitled Survivorslike
+
+<i class="fa-regular fa-calendar"></i> WIP (2026)
+<i class="fa-regular fa-user"></i> 1
+<i class="fa-solid fa-laptop-code"></i> Godot
+
+<p>A prototype survivors-like game to teach myself Godot.</p>
 
 </div>
 
