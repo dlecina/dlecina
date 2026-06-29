@@ -40,6 +40,25 @@ title: "Portfolio"
 
 <!-- -------------------------------- -->
 
+<iframe src="https://www.youtube.com/embed/zUv56KRHsqo?si=OwNsCSwuKW4DEaMl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<div markdown="1" class="desc">
+
+### Space Inhabitant
+
+<i class="fa-solid fa-calendar"></i> 2026
+<i class="fa-solid fa-user"></i> 1
+<i class="fa-solid fa-square"></i> 2D
+<i class="fa-brands fa-unity"></i> Unity
+
+<p>A learning project where I built a mission-based Space Sim game. The focus was to produce a full game, including a main menu, an options menu, multiple missions and credits, while using all the systems learned in previous projects. The implementation includes object pooling to optimize performance.</p>
+
+<i class="fa-brands fa-unity"></i> [Unity Play](https://play.unity.com/en/games/aaf0fa8d-f1e4-46e1-aab8-35ceb918f926/space-inhabitant) <br/>
+
+</div>
+
+<!-- -------------------------------- -->
+
 <iframe src="https://www.youtube.com/embed/9vv722dWdqY?si=PlNiAU9IUR3Y23TT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <div markdown="1" class="desc">
