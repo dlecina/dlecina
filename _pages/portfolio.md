@@ -59,7 +59,7 @@ title: "Portfolio"
 
 <!-- -------------------------------- -->
 
-<iframe src="https://www.youtube.com/embed/9vv722dWdqY?si=PlNiAU9IUR3Y23TT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/HTjxJBzXEVo?si=-DgRGSTtpGHPdh6r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <div markdown="1" class="desc">
 
@@ -71,6 +71,8 @@ title: "Portfolio"
 <i class="fa-brands fa-unity"></i> Unity
 
 <p>A learning project where I built a Worms-style game. The game includes multiple characters, weapons and enemy AI types, as well as a few particle systems. In addition, the game has an Android version with additional virtual controls.</p>
+
+<p>A later update added Terrain Destruction from explosive projectiles through Unity Collider Composite Operations and Sprite Masks.</p>
 
 <i class="fa-brands fa-unity"></i> [Unity Play](https://play.unity.com/en/games/35b1edc9-6c2f-4c56-8a83-00c3a954edb0/shape-wars) <br/>
 <i class="fa-brands fa-android"></i> [Android Demo Video](https://youtu.be/FtE3JYjuBh0)
