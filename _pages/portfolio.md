@@ -47,13 +47,14 @@ title: "Portfolio"
 ### Space Inhabitant
 
 <i class="fa-solid fa-calendar"></i> 2026
-<i class="fa-solid fa-user"></i> 1
+<i class="fa-brands fa-dev"></i> 1
 <i class="fa-solid fa-square"></i> 2D
 <i class="fa-brands fa-unity"></i> Unity
 
 <p>A learning project where I built a mission-based Space Sim game. The focus was to produce a full game, including a main menu, an options menu, multiple missions and credits, while using all the systems learned in previous projects. The implementation includes object pooling to optimize performance.</p>
 
 <i class="fa-brands fa-unity"></i> [Unity Play](https://play.unity.com/en/games/aaf0fa8d-f1e4-46e1-aab8-35ceb918f926/space-inhabitant) <br/>
+<i class="fa-brands fa-gitlab"></i> [Source Code](https://gitlab.com/dlecina/uoc-2d-pr) <br/>
 
 </div>
 
@@ -66,7 +67,7 @@ title: "Portfolio"
 ### Shape Wars
 
 <i class="fa-solid fa-calendar"></i> 2026
-<i class="fa-solid fa-user"></i> 1
+<i class="fa-brands fa-dev"></i> 1
 <i class="fa-solid fa-square"></i> 2D
 <i class="fa-brands fa-unity"></i> Unity
 
@@ -75,7 +76,8 @@ title: "Portfolio"
 <p>A later update added Terrain Destruction from explosive projectiles through Unity Collider Composite Operations and Sprite Masks.</p>
 
 <i class="fa-brands fa-unity"></i> [Unity Play](https://play.unity.com/en/games/35b1edc9-6c2f-4c56-8a83-00c3a954edb0/shape-wars) <br/>
-<i class="fa-brands fa-android"></i> [Android Demo Video](https://youtu.be/FtE3JYjuBh0)
+<i class="fa-brands fa-android"></i> [Android Demo Video](https://youtu.be/FtE3JYjuBh0) <br/>
+<i class="fa-brands fa-gitlab"></i> [Source Code](https://gitlab.com/dlecina/uoc-2d-pec3) <br/>
 
 </div>
 
@@ -88,13 +90,14 @@ title: "Portfolio"
 ### Super Miner Bro.
 
 <i class="fa-solid fa-calendar"></i> 2026
-<i class="fa-solid fa-user"></i> 1
+<i class="fa-brands fa-dev"></i> 1
 <i class="fa-solid fa-square"></i> 2D
 <i class="fa-brands fa-unity"></i> Unity
 
 <p>A learning project where I built a clone of a certain popular platformer. The game includes as many features as I could replicate within the available time (around 2 weeks part time).</p>
 
-<i class="fa-brands fa-unity"></i> [Unity Play](https://play.unity.com/en/games/615e0250-2d2f-418f-be76-450f191183ce/super-miner-bro)
+<i class="fa-brands fa-unity"></i> [Unity Play](https://play.unity.com/en/games/615e0250-2d2f-418f-be76-450f191183ce/super-miner-bro) <br/>
+<i class="fa-brands fa-gitlab"></i> [Source Code](https://gitlab.com/dlecina/uoc-2d-pec2) <br/>
 
 </div>
 
@@ -107,13 +110,14 @@ title: "Portfolio"
 ### Insult Fighter
 
 <i class="fa-solid fa-calendar"></i> 2026
-<i class="fa-solid fa-user"></i> 1
+<i class="fa-brands fa-dev"></i> 1
 <i class="fa-solid fa-square"></i> 2D
 <i class="fa-brands fa-unity"></i> Unity
 
 <p>A learning project where I built a replica of the Insult Sword Fighting mini-game from Monkey Island. The game includes sprite animations, game logic using finite state machines, Animal Crossing-style dialogues, and a playable web version.</p>
 
-<i class="fa-brands fa-unity"></i> [Unity Play](https://play.unity.com/api/v1/games/game/ef2a2191-a3fb-41a3-97df-fe5675078e4a/build/latest/frame)
+<i class="fa-brands fa-unity"></i> [Unity Play](https://play.unity.com/api/v1/games/game/ef2a2191-a3fb-41a3-97df-fe5675078e4a/build/latest/frame) <br/>
+<i class="fa-brands fa-gitlab"></i> [Source Code](https://gitlab.com/dlecina/uoc-2d-pec1) <br/>
 
 </div>
 
@@ -126,7 +130,7 @@ title: "Portfolio"
 ### Untitled Survivorslike
 
 <i class="fa-solid fa-calendar"></i> WIP (2026)
-<i class="fa-solid fa-user"></i> 1
+<i class="fa-brands fa-dev"></i> 1
 <i class="fa-solid fa-square"></i> 2D
 <i class="fa-solid fa-laptop-code"></i> Godot
 
@@ -143,7 +147,7 @@ title: "Portfolio"
 ### Vuvvle Vovvle
 
 <i class="fa-solid fa-calendar"></i> 2012
-<i class="fa-solid fa-users"></i> 2
+<i class="fa-brands fa-dev"></i> 2
 <i class="fa-solid fa-square"></i> 2D
 <i class="fa-solid fa-laptop-code"></i> C++
 
@@ -160,11 +164,59 @@ title: "Portfolio"
 ### 3D Shooter
 
 <i class="fa-solid fa-calendar"></i> 2012
-<i class="fa-solid fa-users"></i> 2
+<i class="fa-brands fa-dev"></i> 2
 <i class="fa-solid fa-cube"></i> 3D
 <i class="fa-solid fa-laptop-code"></i> C++
 
 <p>A school project where we implemented several game mechanics from scratch, character and bullet collisions, tile-based levels, graphical elements such as stencil shadows and a procedural skydome, etc.</p>
+
+</div>
+
+<!-- -------------------------------- -->
+
+</div>
+
+## Other
+
+<div markdown="1" class="grid">
+
+<!-- -------------------------------- -->
+
+<iframe src="https://www.youtube.com/embed/9DELgr3S5k8?si=2pg6NANROkfX3B9X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<div markdown="1" class="desc">
+
+### Fire Shader
+
+<i class="fa-solid fa-calendar"></i> 2026
+<i class="fa-brands fa-dev"></i> 1
+<i class="fa-solid fa-square"></i> 3D
+<i class="fa-solid fa-laptop-code"></i> C++
+
+<p>A school project where I built a simple scene demonstrating different shader effects related to fire.</p>
+
+<i class="fa-brands fa-gitlab"></i> [Source Code](https://gitlab.com/dlecina/fx-pec-2) <br/>
+
+</div>
+
+<!-- -------------------------------- -->
+
+<!-- -------------------------------- -->
+
+<iframe src="https://www.youtube.com/embed/oSy0Fh8sz-w?si=kEaY3eOfik5DsF2W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<div markdown="1" class="desc">
+
+### Bad Apple Demo
+
+<i class="fa-solid fa-calendar"></i> 2026
+<i class="fa-brands fa-dev"></i> 1
+<i class="fa-solid fa-square"></i> 3D
+<i class="fa-solid fa-laptop-code"></i> C++
+
+<p markdown="1">A school project where I built a demoscene-style demo based on the [Bad Apple animation](https://www.youtube.com/watch?v=UkgK8eUdpAo), including direct pixel manipulation using SDL, and performance and memory optimization.</p>
+
+<i class="fa-brands fa-gitlab"></i> [Source Code](https://gitlab.com/dlecina/fx-pec-1) <br/>
 
 </div>
 
